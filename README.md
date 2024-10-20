@@ -9,7 +9,7 @@
 
 ## 🛠️기술스택
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
@@ -20,6 +20,8 @@
 ![Vue.js](https://img.shields.io/badge/vue3-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Docker]()
+![Kubernetes]()
+![ngrok]()
 ![Jenkins]()
 
 ## 📢협업 툴
@@ -46,560 +48,69 @@
 ---
 
 ## 🍀1. 프로젝트 개요
-| 연인과의 소중한 추억을 기록하고, 여러분만의 데이트 코스를 공유하고 추천받는 웹 서비스 입니다.
+| 뮤지컬 관련 정보를 확인하고 공유하며 소통하는 커뮤니티 입니다.
 
 ### 1.1 프로젝트 소개
 
-**소중한 연인과의 기억을 간직하고 다양한 데이트 코스를 알아보세요**
+**뮤지컬에 대해 자유롭게 정보를 공유하고 소통해보세요.**
 
-✔️ 우리의 소중한 기억을 지도 위에 기록하세요
+✔️ 관람했던 뮤지컬 티켓을 온라인으로 소장해보세요.
 
-✔️ 다른 커플은 어디서 어떻게 놀까?
+✔️ 다른 사람들이 좋아하는 뮤지컬을 확인해보세요.
 
-✔️ 맛집, 카페, 액티비티 등 취향에 맞는 데이트 코스
+✔️ 뮤지컬 리뷰를 확인하고 공유해보세요.
 
 ---
 
 ### 1.2 프로젝트 배경
 
-<img src="docs/img/프로젝트개요/시장조사1.jpeg">
-<img src="docs/img/프로젝트개요/시장조사2.jpeg">
 
 ------
 
 ## 1.3 국내외 유사 서비스와 차별성
 
-<img src="docs/img/프로젝트개요/타서비스.jpeg">
+ # 플레이DB
+ # 뮤지컬 커뮤니티
 
-## 🍀2. 기능 명세서
+## 🍀2. 요구사항 명세서
 
-   ![기능명세서](./docs/img/기능명세서/기능명세서.png)
+   ![요구사항명세서](./docs/img/기능명세서/기능명세서.png)
+
+
+---
+
+## 🍀3. WBS
 
 
 ---
 
-## 🍀3. 와이어프레임
+## 🍀4. DDD
 
-<details>
-  <summary>회원</summary>
-
-   ![와이어프레임](./docs/img/wireframe/회원.png)
-
-</details>
-
-<details>
-  <summary>커플</summary>
-
-  ![와이어프레임](./docs/img/wireframe/커플.png)
-
-</details>
-
-<details>
-  <summary>추억</summary>
-
-  ![와이어프레임](./docs/img/wireframe/추억.png)
-
-</details>
-
-<details>
-  <summary>추억코스</summary>
-
-  ![와이어프레임](./docs/img/wireframe/추억코스.png)
-
-</details>
-
-<details>
-  <summary>예정코스</summary>
-
-  ![와이어프레임](./docs/img/wireframe/예정코스.png)
-
-</details>
-
-<details>
-  <summary>랜덤질문</summary>
-
-  ![와이어프레임](./docs/img/wireframe/랜덤질문.png)
-
-</details>
-
-<details>
-  <summary>일기</summary>
-
-  ![와이어프레임](./docs/img/wireframe/일기.png)
-
-</details>
-
-<details>
-  <summary>일정</summary>
-
-  ![와이어프레임](./docs/img/wireframe/일정.png)
-
-</details>
 
 ---
 
-## 🍀4. 스토리보드
-
-<details>
-  <summary>회원</summary>
-
-  <details>
-    <summary>회원가입</summary>
-  <details>
-    <summary>회원가입 화면</summary>
-      <img src="docs/img/storyboard/회원/회원가입.png">
-  </details>
-
-  <details>
-    <summary>회원가입 - 성공</summary>
-      <img src="docs/img/storyboard/회원/회원가입성공.png">
-  </details>
-  </details>
-
-  <details>
-    <summary>로그인</summary>
-    
-  <details>
-    <summary>로그인 화면</summary>
-
-  <img src="docs/img/storyboard/회원/로그인화면.png">
-  
-  </details>
-
-  <details>
-    <summary>로그인 성공</summary>
-
-  <img src="docs/img/storyboard/회원/로그인성공.png">
-  
-  </details>
-
-  <details>
-    <summary>로그인 실패</summary>
-
-  <img src="docs/img/storyboard/회원/로그인실패.png">
-  
-  </details>
-    </details>
-    
-  <details>
-    <summary>마이페이지</summary>
-  <details>
-    <summary>마이페이지 화면</summary>
-      <img src="docs/img/storyboard/회원/마이페이지.png">
-    
-  </details>
-
-  <details>
-    <summary>마이페이지 정보 수정</summary>
-      <img src="docs/img/storyboard/회원/마이페이지-모달창.png">
-      <img src="docs/img/storyboard/회원/마이페이지-수정됨.png">
-  </details>
-  </details>
-</details>
-
-<details>
-  <summary>홈</summary>
-
-  <details>
-    <summary>홈페이지 화면</summary>
-      <img src="docs/img/storyboard/홈페이지/홈페이지.png">
-    
-  </details>
-
-  <details>
-    <summary>홈페이지 - 사이드바</summary>
-      <img src="docs/img/storyboard/홈페이지/홈페이지-사이드바.png">
-  </details>
-   
-</details>
-
-<details>
-  <summary>커플</summary>
-</details>
-
-<details>
-  <summary>추억</summary>
-</details>
-
-<details>
-  <summary>추억코스</summary>
-
-  <details>
-    <summary>추억코스 목록</summary>
-
-   <img src="docs/img/storyboard/추억코스/추억코스 목록.png">
-
-  </details>
-
-  <details>
-    <summary>추억코스 상세조회</summary>
-
-   <img src="docs/img/storyboard/추억코스/추억코스 상세조회.png">
-
-  </details>
-
-</details>
-
-<details>
-  <summary>예정코스</summary>
-
-   <details>
-   <summary>예정코스 목록</summary>
-
-  <img src="docs/img/storyboard/예정코스/예정코스 목록.png">
-
-  </details>
-   
-   <details>
-   <summary>예정코스 검색</summary>
-
-  <img src="docs/img/storyboard/예정코스/예정코스 검색.png">
-
-  </details>
-
-   <details>
-   <summary>예정코스 작성</summary>
-
-  <img src="docs/img/storyboard/예정코스/예정코스 작성.png">
-
-  </details>
-
-   <details>
-   <summary>예정코스 수정</summary>
-
-  <img src="docs/img/storyboard/예정코스/예정코스 수정.png">
-
-  </details>
-
-   <details>
-   <summary>예정코스 삭제</summary>
-
-  <img src="docs/img/storyboard/예정코스/예정코스 삭제.png">
-
-  </details>
-
-   <details>
-   <summary>예정코스 상세 조회</summary>
-
-  <img src="docs/img/storyboard/예정코스/예정코스 상세 조회.png">
-
-  </details>
-
-</details>
-
-<details>
-  <summary>랜덤질문</summary>
-</details>
-
-<details>
-  <summary>일기</summary>
-
-
-  <details>
-    <summary>일기조회 - 일기 없는 버전</summary>
-
-  <img src="docs/img/storyboard/일기/일기 조회 - 일기 없는 버전.png">
-
-  </details>
-
-  <details>
-    <summary>일기조회 - 일기 있는 버전</summary>
-
-  <img src="docs/img/storyboard/일기/일기 조회 - 일기 있는 버전.png">
-
-  </details>
-
-  <details>
-    <summary>일기등록</summary>
-
-  <img src="docs/img/storyboard/일기/일기 등록.png">
-
-  </details>
-
-  <details>
-    <summary>일기수정</summary>
-
-  <img src="docs/img/storyboard/일기/일기 수정.png">
-
-  </details>
-
-  <details>
-    <summary>일기삭제</summary>
-
-  <img src="docs/img/storyboard/일기/일기 삭제.png">
-
-  </details>
-
-</details>
-
-<details>
-  <summary>일정</summary>
-  
-  - <details>
-      <summary>일정조회</summary>
-    
-      ![스토리보드](./docs/img/storyboard/일정/일정조회.png)
-    
-    </details>
-  
-  - <details>
-      <summary>일정상세조회</summary>
-    
-      ![스토리보드](./docs/img/storyboard/일정/일정상세조회.png)
-    
-    </details>
-
-  - <details>
-      <summary>일정작성</summary>
-    
-      ![스토리보드](./docs/img/storyboard/일정/일정작성.png)
-    
-    </details>
-
-  - <details>
-      <summary>일정수정</summary>
-    
-      ![스토리보드](./docs/img/storyboard/일정/일정수정.png)
-    
-    </details>
-
-  - <details>
-      <summary>일정삭제</summary>
-    
-      ![스토리보드](./docs/img/storyboard/일정/일정삭제.png)
-    
-    </details>
-  
-</details>
+## 🍀5. DB 모델링
 
 
 ---
 
-## 🍀5. 테스트
-
-### 테스트 계획서
-
- ![테스트계획서](./docs/img/테스트계획서/테스트계획서.png)
-
-<details>
-  <summary>회원</summary>
-
-  - <details>
-      <summary>회원가입</summary>
-     
-      ![테스트](./docs/gif/test/회원/회원가입.gif)
-    </details>
-
-  - <details>
-      <summary>로그인</summary>
-     
-      ![테스트](./docs/gif/test/회원/로그인.gif)
-    </details>
-
-  - <details>
-      <summary>개인정보 수정</summary>
-     
-      ![테스트](./docs/gif/test/회원/개인정보수정.gif)
-    </details>
-
-</details>
+## 🍀6. UI 설계
 
 
-<details>
-  <summary>커플</summary>
+---
 
-   - <details>
-      <summary>커플페이지조회</summary>
-      
-        ![테스트](./docs/gif/test/커플/커플페이지조회.gif)
-      
-       </details>
-</details>
+## 🍀7. CI/CD 파이프라인
 
 
-<details>
-  <summary>추억</summary>
+---
 
-<details>
-  <summary>추억등록</summary>
-
-  ![테스트](./docs/gif/test/추억/추억등록.gif)
+## 🍀8. 프론트엔드 및 백엔드 테스트 결과
 
 
-</details>
+---
 
-<details>
-  <summary>추억수정</summary>
+## 🍀9. CI/CD 테스트 결과
 
-  ![테스트](./docs/gif/test/추억/추억수정.gif)
-
-</details>
-
-
-<details>
-  <summary>추억삭제</summary>
-  
-  ![테스트](./docs/gif/test/추억/추억삭제.gif)
-  
-  </details>
-
-  
-<details>
-  <summary>추억 상세 조회</summary>
-    
-  ![테스트](./docs/gif/test/추억/추억_상세_조회.gif)
-  
-  </details>
-
-<details>
-  <summary>지도 검색 기능</summary>
-    
-  ![테스트](./docs/gif/test/추억/지도_검색_기능.gif)
-  
-  </details>
-  
-</details>
-
-
-
-<details>
-  <summary>예정데이트코스</summary>
-     
-  - <details>
-      <summary>예정데이트코스목록조회</summary>
-    
-      ![테스트](./docs/gif/test/예정데이트코스/예정데이트코스목록조회.gif)
-    
-    </details>
-
-      
-  - <details>
-      <summary>예정데이트코스작성</summary>
-    
-      ![테스트](./docs/gif/test/예정데이트코스/예정데이트코스작성.gif)
-    
-    </details>
-</details>
-
-<details>
-  <summary>랜덤질문</summary>
-
-
-  <details>
-    <summary>1.랜덤질문 메인화면</summary>
-
-  ![랜덤질문 메인 화면](https://github.com/user-attachments/assets/2d552b28-841b-4926-b04f-14edab86c0ee)
-
-  </details>
-
-  <details>
-    <summary>2.랜덤질문 답변작성</summary>
-
-  ![랜덤 질문 답변 작성](https://github.com/user-attachments/assets/0ad667bb-3d9c-497e-9814-2e95fc40d394)
-
-  </details>
-
-  <details>
-    <summary>2.랜덤질문 답변수정</summary>
-
-  ![답변 내용 수정](https://github.com/user-attachments/assets/bdf54cd4-c59e-424d-88ee-42526f42a3df)
-
-  </details>
-
-  <details>
-    <summary>3.랜덤질문 답변삭제</summary>
-
-  ![랜덤질문 답변 삭제](https://github.com/user-attachments/assets/29a1bfde-ff0b-4830-bae4-1dd0dc35a9d6)
-
-  </details>
-
-  <details>
-    <summary>4.랜덤질문 페이지네이션</summary>
-
-  ![랜덤질문 페이지 네이션](https://github.com/user-attachments/assets/014736ff-094a-46f1-8d29-97f606c8a493)
-
-  </details>
-
-  <details>
-    <summary>5.랜덤질문 전체리스트 조회</summary>
-
-  ![전체 질문 리스트 조회](https://github.com/user-attachments/assets/8b461cd5-75a1-4eab-a18e-bf0d65bdd19e)
-
-  </details>
-
-  <details>
-    <summary>6.랜덤질문 리스트 상세조회</summary>
-
-  ![랜덤질문 리스트 상세 조회](https://github.com/user-attachments/assets/99f6bd8d-a96d-45d4-a6d4-0c7ec02f8506)
-
-  </details>
-
-
-</details>
-
-<details>
-  <summary>일기</summary>
-
-  - <details>
-      <summary>일기조회</summary>
-    
-      ![테스트](./docs/gif/test/일기/일기조회.gif)
-    </details>
-
-  - <details>
-      <summary>일기등록</summary>
-    
-      ![테스트](./docs/gif/test/일기/일기작성.gif)
-    </details>
-
-  - <details>
-      <summary>일기수정</summary>
-    
-      ![테스트](./docs/gif/test/일기/일기수정.gif)
-    </details>
-
-  - <details>
-      <summary>일기삭제</summary>
-    
-      ![테스트](./docs/gif/test/일기/일기삭제.gif)
-    
-    </details>
-
-</details>
-
-
-<details>
-  <summary>일정</summary>
-  
-  - <details>
-      <summary>일정조회</summary>
-    
-      ![테스트](./docs/gif/test/일정/캘린더조회.gif)
-    
-    </details>
-  
-  - <details>
-      <summary>일정수정</summary>
-    
-      ![테스트](./docs/gif/test/일정/캘린더수정.gif)
-    
-    </details>
-
-  - <details>
-      <summary>일정작성</summary>
-    
-      ![테스트](./docs/gif/test/일정/캘린더작성.gif)
-    
-    </details>
-
-  - <details>
-      <summary>일정삭제</summary>
-    
-      ![테스트](./docs/gif/test/일정/캘린더삭제.gif)
-    
-    </details>
-
-</details>
 
 ---
 
