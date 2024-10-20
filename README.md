@@ -151,6 +151,109 @@
 
 ## 🍀8. 프론트엔드 및 백엔드 테스트 결과
 
+---
+### 8.1 자유게시글
+
+<details>
+  <summary>자유게시글</summary>
+
+  - <details>
+      <summary>자유게시글 목록 조회</summary>
+     
+      ![테스트](./docs/gif/board/자유게시글목록.gif)
+    </details>
+
+  - <details>
+      <summary>자유게시글 검색</summary>
+     
+      ![테스트](./docs/gif/board/자유게시글검색.gif)
+    </details>
+
+  - <details>
+      <summary>자유게시글 상세 조회</summary>
+     
+      ![테스트](./docs/gif/board/자유게시글상세조회.gif)
+    </details>
+
+  - <details>
+      <summary>자유게시글 작성</summary>
+     
+      ![테스트](./docs/gif/board/자유게시글작성.gif)
+    </details>
+
+      - <details>
+      <summary>자유게시글 수정</summary>
+     
+      ![테스트](./docs/gif/board/자유게시글수정.gif)
+    </details>
+
+      - <details>
+      <summary>자유게시글 삭제</summary>
+     
+      ![테스트](./docs/gif/board/자유게시글삭제.gif)
+    </details>
+
+      - <details>
+      <summary>자유게시글 댓글 작성</summary>
+     
+      ![테스트](./docs/gif/board/자유게시글댓글작성.gif)
+    </details>
+
+      - <details>
+      <summary>자유게시글 댓글 수정</summary>
+     
+      ![테스트](./docs/gif/board/자유게시글댓글수정.gif)
+    </details>
+
+      - <details>
+      <summary>자유게시글 댓글 삭제</summary>
+     
+      ![테스트](./docs/gif/board/자유게시글댓글삭제.gif)
+    </details>
+
+      - <details>
+      <summary>자유게시글 대댓글 작성</summary>
+     
+      ![테스트](./docs/gif/board/자유게시글대댓글작성.gif)
+    </details>
+
+      - <details>
+      <summary>자유게시글 대댓글 수정</summary>
+     
+      ![테스트](./docs/gif/board/자유게시글대댓글수정.gif)
+    </details>
+
+      - <details>
+      <summary>자유게시글 대댓글 삭제</summary>
+     
+      ![테스트](./docs/gif/board/자유게시글대댓글삭제.gif)
+    </details>
+
+      - <details>
+      <summary>자유게시글 백엔드 </summary>
+     
+      ![테스트](./docs/gif/board/자유백엔드.gif)
+    </details>
+
+      - <details>
+      <summary>자유게시글 댓글 백엔드</summary>
+     
+      ![테스트](./docs/gif/board/자유댓글백엔드.gif)
+    </details>
+
+      - <details>
+      <summary>자유게시글 대댓글 백엔드</summary>
+     
+      ![테스트](./docs/gif/board/자유대댓글백엔드.gif)
+    </details>
+
+      - <details>
+      <summary>자유게시글 좋아요 백엔드</summary>
+     
+      ![테스트](./docs/gif/board/자유좋아요백엔드.gif)
+    </details>
+
+</details>
 
 ---
 
