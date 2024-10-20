@@ -92,6 +92,29 @@
 ---
 
 ## 🍀4. DDD
+### 4.1 Domain Event Deduction
+![Domain Event Deduction](./docs/img/ddd/1단계.png)
+
+### 4.2 External System
+![Domain Event Deduction](./docs/img/ddd/2단계.png)
+
+### 4.3 Command
+![Domain Event Deduction](./docs/img/ddd/3단계.png)
+
+### 4.4 Actor
+![Domain Event Deduction](./docs/img/ddd/4단계.png)
+
+### 4.5 Aggregate
+![Domain Event Deduction](./docs/img/ddd/5단계.png)
+
+### 4.6 Bounded Context
+![Domain Event Deduction](./docs/img/ddd/6단계.png)
+
+### 4.7 Bounded context
+![Domain Event Deduction](./docs/img/ddd/7단계.png)
+
+#### 4.7.1 Bounded context - 1차 구현 목표
+![Domain Event Deduction](./docs/img/ddd/7단계_1차목표.png)
 
 
 ---
