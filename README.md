@@ -147,6 +147,91 @@
 ---
 
 ## 🍀7. CI/CD 파이프라인
+<details>
+<summary>jenkins script code</summary>
+   
+   ```
+   pipeline {
+       agent any
+   
+       tools {
+           gradle 'gradle'
+           jdk 'openJDK17'
+       }
+   
+       environment {
+           DOCKERHUB_CREDENTIALS = credentials('DOCKERHUB_PASSWORD')
+           DOCKERHUB_USERNAME = '1etterh'
+           GITHUB_URL = 'https://github.com/three-ping/MUDIUM_DevOps.git'
+       }
+   
+       stages {
+           stage('Preparation') {
+               steps {
+                   script {
+                       if (isUnix()) {
+                           sh 'docker --version'
+                       } else {
+                           bat 'docker --version'
+                       }
+                   }
+               }
+           }
+           stage('Source Build') {
+               steps {
+                   git branch: 'main', url: "${env.GITHUB_URL}"
+                   script {
+                       if (isUnix()) {
+                           sh "chmod +x ./gradlew"
+                           sh "./gradlew clean build"
+                       } else {
+                           bat "gradlew.bat clean build"
+                       }
+                   }
+               }
+           }
+           stage('Container Build and Push') {
+               steps {    
+                   script {
+                       withCredentials([usernamePassword(credentialsId: 'DOCKERHUB_PASSWORD', usernameVariable: 'DOCKER_USER', passwordVariable: 'DOCKER_PASS')]) {
+                           if (isUnix()) {
+                               sh "cp ./build/libs/*.jar ."
+                               sh "docker build -t ${DOCKERHUB_USERNAME}/test-pipe2:latest ."
+                               sh "docker login -u ${DOCKER_USER} -p ${DOCKER_PASS}"
+                               sh "docker push ${DOCKERHUB_USERNAME}/test-pipe2:latest"
+                           } else {
+                               bat "copy .\\build\\libs\\*.jar ."
+                               bat "docker build -t ${DOCKERHUB_USERNAME}/test-pipe2:latest ."
+                               bat "docker login -u %DOCKER_USER% -p %DOCKER_PASS%"
+                               bat "docker push ${DOCKERHUB_USERNAME}/test-pipe2:latest"
+                           }
+                       }
+                   }
+               }
+           }
+       }
+   
+       post {
+           always {
+               script {
+                   if (isUnix()) {
+                       sh 'docker logout'
+                   } else {
+                       bat 'docker logout'
+                   }
+               }
+           }
+           success {
+               echo 'Pipeline succeeded!'
+           }
+           failure {
+               echo 'Pipeline failed!'
+           }
+       }
+   }
+   ```
+   
+</details>
 
 
 ---
