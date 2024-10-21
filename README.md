@@ -332,7 +332,7 @@
       <summary>관람 매너 안내 백엔드</summary>
       <details>
         <summary>관람 매너 안내 전체 조회</summary>
-        ![테스트](./docs/img/guidebook_img/매너 목록.png)
+        ![테스트](docs/img/guidebook_img/매너 목록.png)
       </details>
       <details>
         <summary>관람 매너 안내 상세 조회</summary>
