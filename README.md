@@ -460,7 +460,24 @@
 
 ---
 
-### 8.6 커스텀 티켓 
+### 8.6 캘린더
+
+<details>
+  <summary>캘린더</summary>
+
+  - <details>
+     
+      <summary>캘린더 테마</summary>
+     
+    ![테스트](.docs/gif/calendar/캘린더.gif)
+    
+    </details>
+
+</details>
+
+---
+
+### 8.7 커스텀 티켓 
 <details>
   <summary>커스텀티켓</summary>
    <details>
