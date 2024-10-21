@@ -522,25 +522,25 @@
   <summary>뮤지컬 정보</summary>
    <details>
      <summary>뮤지컬 조회</summary>
-     <img src="./docs/gif/customticket/customticketCreate.gif" alt="테스트">
+     <img src="./docs/gif/musicalInfo/musical-select.gif" alt="테스트">
 
    </details>
 
    <details>
      <summary>뮤지컬 조회 백앤드</summary>
-     <img src="./docs/gif/customticket/customticketCreateTest.gif" alt="테스트">
+     <img src="./docs/gif/musical/back test - 뮤지컬 조회.gif" alt="테스트">
 
    </details>
 
    <details>
      <summary>뮤지컬 검색</summary>
-      <img src="./docs/gif/customticket/customticket.gif" alt="테스트">
+      <img src="./docs/gif/musicalInfo/musical-search.gif" alt="테스트">
 
    </details>
 
    <details>
      <summary>뮤지컬 검색 백엔드</summary>
-     <img src="./docs/gif/customticket/customticketTest.gif" alt="테스트">
+     <img src="./docs/gif/musicalInfo/back test - 뮤지컬 이름으로 조회.gif" alt="테스트">
 
    </details>
 </details>
@@ -552,36 +552,36 @@
   <summary>별점</summary>
    <details>
      <summary>별점 생성</summary>
-     <img src="./docs/gif/customticket/customticketCreate.gif" alt="테스트">
+     <img src="./docs/gif/scope/customticketCreate.gif" alt="테스트">
 
    </details>
 
    <details>
      <summary>별점 생성 백엔드</summary>
-     <img src="./docs/gif/customticket/customticketCreateTest.gif" alt="테스트">
+     <img src="./docs/gif/scope/customticketCreateTest.gif" alt="테스트">
 
    </details>
 
    <details>
      <summary>별점 수정</summary>
-      <img src="./docs/gif/customticket/customticket.gif" alt="테스트">
+      <img src="./docs/gif/scope/customticket.gif" alt="테스트">
 
    </details>
 
    <details>
      <summary>별점 수정 백엔드</summary>
-     <img src="./docs/gif/customticket/customticketTest.gif" alt="테스트">
+     <img src="./docs/gif/scope/customticketTest.gif" alt="테스트">
 
    </details>
 
    <details>
      <summary>평균 별점 조회</summary>
-     <img src="./docs/gif/customticket/customticketDelete.gif" alt="테스트">
+     <img src="./docs/gif/scope/customticketDelete.gif" alt="테스트">
    </details>
 
    <details>
      <summary>평균 별점 조회 백앤드</summary>
-     <img src="./docs/gif/customticket/customticketDeleteTest.gif" alt="테스트">
+     <img src="./docs/gif/scope/customticketDeleteTest.gif" alt="테스트">
    </details>
 </details>
 
