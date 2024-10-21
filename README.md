@@ -294,6 +294,28 @@
 
 ---
 ### 8.4 리뷰
+<details>
+  <summary>리뷰</summary>
+
+   - <details>
+     <summary>백엔드</summary>
+
+      <details>
+        <summary>리뷰 전체 조회</summary>
+
+        ![테스트](./docs/gif/board/리뷰 전체 조회_백엔드.gif)
+      </details>
+   </details>
+
+   - <details>
+     <summary>프론트엔드</summary>
+
+      <details>
+         
+      </details>
+   </details>
+   
+</details>
 
 ---
 ### 8.5 비밀리뷰
