@@ -142,7 +142,7 @@
 ---
 
 ## 🍀6. UI 설계
-
+![피그마](./docs/img/figma.png)
 
 ---
 
@@ -290,9 +290,141 @@
 ### 8.3 가이드북
 <details>
   <summary>가이드북 메인(입문 작품 추천 / 뮤지컬 용어 안내 / 뮤지컬 관람 매너)</summary>
+</details>
 
+---
+### 8.4 리뷰
+<details>
+  <summary>리뷰</summary>
+
+  - <details>
+      <summary>백엔드</summary>
+      <details>
+        <summary>리뷰 전체 조회</summary>
+        ![테스트](./docs/gif/review/리뷰전체조회_백엔드.gif)
+      </details>
+      <details>
+        <summary>리뷰 상세 조회</summary>
+        ![테스트](./docs/gif/review/리뷰상세조회_백엔드.gif)
+      </details>
+      <details>
+        <summary>리뷰 작성</summary>
+        ![테스트](./docs/gif/review/리뷰작성_백엔드.gif)
+      </details>
+      <details>
+        <summary>리뷰 수정</summary>
+        ![테스트](./docs/gif/review/리뷰수정_백엔드.gif)
+      </details>
+      <details>
+        <summary>리뷰 삭제</summary>
+        ![테스트](./docs/gif/review/리뷰삭제_백엔드.gif)
+      </details>
+    </details>
+
+  - <details>
+      <summary>프론트엔드</summary>
+      <details>
+        <summary>리뷰 작성</summary>
+        ![테스트](./docs/gif/review/리뷰작성.gif)
+      </details>
+      <details>
+        <summary>리뷰 수정</summary>
+        ![테스트](./docs/gif/review/리뷰수정.gif)
+      </details>
+      <details>
+        <summary>리뷰 삭제</summary>
+        ![테스트](./docs/gif/review/리뷰삭제.gif)
+      </details>
+      <details>
+        <summary>리뷰 좋아요</summary>
+        ![테스트](./docs/gif/review/리뷰좋아요.gif)
+      </details>
+    </details>
+</details>
+
+---
+
+### 8.5 비밀리뷰
+<details>
+  <summary>비밀리뷰</summary>
+
+  - <details>
+      <summary>백엔드</summary>
+      <details>
+        <summary>비밀리뷰 전체 조회</summary>
+        ![테스트](./docs/gif/secret_review/비밀리뷰전체조회_백엔드.gif)
+      </details>
+      <details>
+        <summary>비밀리뷰 상세 조회</summary>
+        ![테스트](./docs/gif/secret_review/비밀리뷰상세조회_백엔드.gif)
+      </details>
+      <details>
+        <summary>비밀리뷰 작성</summary>
+        ![테스트](./docs/gif/secret_review/비밀리뷰작성_백엔드.gif)
+      </details>
+      <details>
+        <summary>비밀리뷰 수정</summary>
+        ![테스트](./docs/gif/secret_review/비밀리뷰수정_백엔드.gif)
+      </details>
+      <details>
+        <summary>비밀리뷰 삭제</summary>
+        ![테스트](./docs/gif/secret_review/비밀리뷰삭제_백엔드.gif)
+      </details>
+    </details>
+
+  - <details>
+      <summary>프론트엔드</summary>
+      <details>
+        <summary>비밀리뷰 작성</summary>
+        ![테스트](./docs/gif/secret_review/비밀리뷰작성.gif)
+      </details>
+      <details>
+        <summary>비밀리뷰 수정</summary>
+        ![테스트](./docs/gif/secret_review/비밀리뷰수정.gif)
+      </details>
+    </details>
+</details>
+
+---
+
+### 8.6 커스텀 티켓 
+<details>
+  <summary>커스텀티켓</summary>
+   <details>
+  <summary>커스텀티켓 생성</summary>
+  ![테스트](./docs/gif/customticket/customticket.gif)
+
+</details>
+
+<details>
+  <summary>커스텀티켓 생성 백엔드</summary>
+  ![테스트](./docs/gif/customticket/커스텀티켓생성테스트.gif)
+
+</details>
+
+<details>
+  <summary>커스텀티켓 조회</summary>
+   ![테스트](./docs/gif/customticket/커스텀티켓조회.gif)
+
+</details>
+
+<details>
+  <summary>커스텀티켓 조회 백엔드</summary>
+  ![테스트](./docs/gif/customticket/커스텀티켓조회테스트.gif)
   
+</details>
 
+<details>
+  <summary>커스텀티켓 삭제</summary>
+  ![테스트](./docs/gif/customticket/커스텀티켓삭제.gif)
+
+</details>
+
+<details>
+  <summary>커스텀티켓 삭제 백엔드</summary>
+  ![테스트](./docs/gif/customticket/커스텀티켓삭제테스트.gif)
+
+</details>
 </details>
 
 ## 🍀9. CI/CD 테스트 결과
