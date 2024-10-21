@@ -392,7 +392,7 @@
   <summary>커스텀티켓</summary>
    <details>
   <summary>커스텀티켓 생성</summary>
-  ![테스트](./docs/gif/customticket/커스텀티켓생성.gif)
+  ![테스트](./docs/gif/customticket/customticket.gif)
 
 </details>
 
