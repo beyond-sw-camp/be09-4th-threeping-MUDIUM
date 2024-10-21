@@ -528,7 +528,7 @@
 
    <details>
      <summary>뮤지컬 조회 백앤드</summary>
-     <img src="./docs/gif/musical/back-find.gif" alt="테스트">
+     <img src="./docs/gif/musicalInfo/back-find.gif" alt="테스트">
 
    </details>
 
@@ -570,7 +570,7 @@
 
    <details>
      <summary>별점 수정 백엔드</summary>
-     <img src="./docs/gif/scope/back-scopeupdate.gif" alt="테스트">
+     <img src="./docs/gif/scope/back -scopeupdate.gif" alt="테스트">
 
    </details>
 
@@ -581,7 +581,7 @@
 
    <details>
      <summary>평균 별점 조회 백앤드</summary>
-     <img src="./docs/gif/scope/back-average.gif" alt="테스트">
+     <img src="./docs/gif/scope/back -average.gif" alt="테스트">
    </details>
 </details>
 
