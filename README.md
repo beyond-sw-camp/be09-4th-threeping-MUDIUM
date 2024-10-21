@@ -355,95 +355,107 @@
 
 ---
 ### 8.4 리뷰
+
 <details>
   <summary>리뷰</summary>
 
   - <details>
-      <summary>백엔드</summary>
-      <details>
-        <summary>리뷰 전체 조회</summary>
-        ![테스트](./docs/gif/review/리뷰전체조회_백엔드.gif)
-      </details>
-      <details>
-        <summary>리뷰 상세 조회</summary>
-        ![테스트](./docs/gif/review/리뷰상세조회_백엔드.gif)
-      </details>
-      <details>
-        <summary>리뷰 작성</summary>
-        ![테스트](./docs/gif/review/리뷰작성_백엔드.gif)
-      </details>
-      <details>
-        <summary>리뷰 수정</summary>
-        ![테스트](./docs/gif/review/리뷰수정_백엔드.gif)
-      </details>
-      <details>
-        <summary>리뷰 삭제</summary>
-        ![테스트](./docs/gif/review/리뷰삭제_백엔드.gif)
-      </details>
+     
+      <summary>리뷰 전체 조회</summary>
+     
+    ![테스트](./docs/gif/review/review_total.gif)
+    
     </details>
 
   - <details>
-      <summary>프론트엔드</summary>
-      <details>
-        <summary>리뷰 작성</summary>
-        ![테스트](./docs/gif/review/리뷰작성.gif)
-      </details>
-      <details>
-        <summary>리뷰 수정</summary>
-        ![테스트](./docs/gif/review/리뷰수정.gif)
-      </details>
-      <details>
-        <summary>리뷰 삭제</summary>
-        ![테스트](./docs/gif/review/리뷰삭제.gif)
-      </details>
-      <details>
-        <summary>리뷰 좋아요</summary>
-        ![테스트](./docs/gif/review/리뷰좋아요.gif)
-      </details>
+     
+      <summary>리뷰 상세 조회</summary>
+     
+    ![테스트](./docs/gif/review/review_detail.gif)
+    
     </details>
+
+  - <details>
+     
+      <summary>리뷰 작성</summary>
+     
+    ![테스트](./docs/gif/review/review_regist.gif)
+    
+    </details>
+
+  - <details>
+     
+      <summary>리뷰 수정</summary>
+     
+    ![테스트](./docs/gif/review/review_update.gif)
+    
+    </details>
+
+  - <details>
+     
+      <summary>리뷰 삭제</summary>
+     
+    ![테스트](./docs/gif/review/review_delete.gif)
+    
+    </details>
+
+  - <details>
+     
+      <summary>리뷰 좋아요</summary>
+     
+    ![테스트](./docs/gif/review/review_like.gif)
+    
+    </details>
+
+  - <details>
+     
+      <summary>리뷰 백엔드</summary>
+     
+      ![테스트](./docs/gif/review/review_backend.gif)
+    
+    </details>
+
 </details>
 
 ---
 
 ### 8.5 비밀리뷰
+
 <details>
   <summary>비밀리뷰</summary>
 
   - <details>
-      <summary>백엔드</summary>
-      <details>
-        <summary>비밀리뷰 전체 조회</summary>
-        ![테스트](./docs/gif/secret_review/비밀리뷰전체조회_백엔드.gif)
-      </details>
-      <details>
-        <summary>비밀리뷰 상세 조회</summary>
-        ![테스트](./docs/gif/secret_review/비밀리뷰상세조회_백엔드.gif)
-      </details>
-      <details>
-        <summary>비밀리뷰 작성</summary>
-        ![테스트](./docs/gif/secret_review/비밀리뷰작성_백엔드.gif)
-      </details>
-      <details>
-        <summary>비밀리뷰 수정</summary>
-        ![테스트](./docs/gif/secret_review/비밀리뷰수정_백엔드.gif)
-      </details>
-      <details>
-        <summary>비밀리뷰 삭제</summary>
-        ![테스트](./docs/gif/secret_review/비밀리뷰삭제_백엔드.gif)
-      </details>
+     
+      <summary>비밀리뷰 조회</summary>
+     
+    ![테스트](./docs/gif/secret-review/secret_review_view.gif)
+    
     </details>
 
   - <details>
-      <summary>프론트엔드</summary>
-      <details>
-        <summary>비밀리뷰 작성</summary>
-        ![테스트](./docs/gif/secret_review/비밀리뷰작성.gif)
-      </details>
-      <details>
-        <summary>비밀리뷰 수정</summary>
-        ![테스트](./docs/gif/secret_review/비밀리뷰수정.gif)
-      </details>
+     
+      <summary>비밀리뷰 작성</summary>
+     
+    ![테스트](./docs/gif/secret-review/secret_review_regist.gif)
+    
     </details>
+
+  - <details>
+     
+      <summary>비밀리뷰 수정</summary>
+     
+    ![테스트](./docs/gif/secret-review/secret_review_update.gif)
+    
+    </details>
+
+  - <details>
+     
+      <summary>비밀리뷰 백엔드</summary>
+     
+      ![테스트](./docs/gif/secret-review/secret_review_backend.gif)
+    
+    </details>
+
 </details>
 
 ---
