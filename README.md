@@ -3,8 +3,7 @@
 
 
 ## 🤝TEAM
-| <img src="docs/img/profile/김시우." width="200" height = "160">|<img src="![제목](https://github.com/user-attachments/assets/91ad18ed-3c58-4626-8b4f-f4c2fe56da82)
-" width="200" height = "160">|<img src="docs/img/profile/김서현." width="200" height = "160">|<img src="docs/img/profile/이우진.jpeg" width="200" height = "160">|<img src="docs/img/profile/김동혁.jpg" width="200" height = "160">|<img src="docs/img/profile/김정모.jpg" width="200" height = "160"> |
+| <img src="docs/img/profile/김시우." width="200" height = "160">|<img src="https://github.com/user-attachments/assets/91ad18ed-3c58-4626-8b4f-f4c2fe56da82">|<img src="docs/img/profile/김서현." width="200" height = "160">|<img src="docs/img/profile/이우진.jpeg" width="200" height = "160">|<img src="docs/img/profile/김동혁.jpg" width="200" height = "160">|<img src="docs/img/profile/김정모.jpg" width="200" height = "160"> |
 | :------------------------------------: | :-----------------------------------: | :-----------------------------------: | :--------------------------------------: | :-----------------------------------: | :------------------------------------------: |
 | [🦖김시우](https://github.com/siu98) | [🐰이효진](https://github.com/jinjin0528) | [😇김서현](https://github.com/1etterh) | [👀이우진](https://github.com/Vorschlag-bit) | [😺김동혁](https://github.com/dongkh9) | [🐶김정모](https://github.com/mojeeeeong) |
 
