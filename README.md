@@ -391,40 +391,38 @@
 <details>
   <summary>커스텀티켓</summary>
    <details>
-  <summary>커스텀티켓 생성</summary>
-  ![테스트](./docs/gif/customticket/customticket.gif)
+     <summary>커스텀티켓 생성</summary>
+     <img src="./docs/gif/customticket/customticketCreate.gif" alt="테스트">
 
-</details>
+   </details>
 
-<details>
-  <summary>커스텀티켓 생성 백엔드</summary>
-  ![테스트](./docs/gif/customticket/커스텀티켓생성테스트.gif)
+   <details>
+     <summary>커스텀티켓 생성 백엔드</summary>
+     <img src="./docs/gif/customticket/customticketCreateTest.gif" alt="테스트">
 
-</details>
+   </details>
 
-<details>
-  <summary>커스텀티켓 조회</summary>
-   ![테스트](./docs/gif/customticket/커스텀티켓조회.gif)
+   <details>
+     <summary>커스텀티켓 조회</summary>
+      <img src="./docs/gif/customticket/customticket.gif" alt="테스트">
 
-</details>
+   </details>
 
-<details>
-  <summary>커스텀티켓 조회 백엔드</summary>
-  ![테스트](./docs/gif/customticket/커스텀티켓조회테스트.gif)
-  
-</details>
+   <details>
+     <summary>커스텀티켓 조회 백엔드</summary>
+     <img src="./docs/gif/customticket/customticketTest.gif" alt="테스트">
 
-<details>
-  <summary>커스텀티켓 삭제</summary>
-  ![테스트](./docs/gif/customticket/커스텀티켓삭제.gif)
+   </details>
 
-</details>
+   <details>
+     <summary>커스텀티켓 삭제</summary>
+     <img src="./docs/gif/customticket/customticketDelete.gif" alt="테스트">
+   </details>
 
-<details>
-  <summary>커스텀티켓 삭제 백엔드</summary>
-  ![테스트](./docs/gif/customticket/커스텀티켓삭제테스트.gif)
-
-</details>
+   <details>
+     <summary>커스텀티켓 삭제 백엔드</summary>
+     <img src="./docs/gif/customticket/customticketDeleteTest.gif" alt="테스트">
+   </details>
 </details>
 
 ## 🍀9. CI/CD 테스트 결과
