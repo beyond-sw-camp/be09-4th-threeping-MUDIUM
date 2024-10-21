@@ -385,7 +385,46 @@
     </details>
 </details>
 
+---
 
+### 8.6 커스텀 티켓 
+<details>
+  <summary>커스텀티켓</summary>
+   <details>
+  <summary>커스텀티켓 생성</summary>
+  ![테스트](./docs/gif/customticket/커스텀티켓 생성.gif)
+
+</details>
+
+<details>
+  <summary>커스텀티켓 생성 백엔드</summary>
+  ![테스트](./docs/gif/customticket/커스텀티켓 생성테스트.gif)
+
+</details>
+
+<details>
+  <summary>커스텀티켓 조회</summary>
+   ![테스트](./docs/gif/customticket/커스텀티켓 조회.gif)
+
+</details>
+
+<details>
+  <summary>커스텀티켓 조회 백엔드</summary>
+  ![테스트](./docs/gif/customticket/커스텀티켓 조회테스트.gif)
+  
+</details>
+
+<details>
+  <summary>커스텀티켓 삭제</summary>
+  ![테스트](./docs/gif/customticket/커스텀티켓 삭제.gif)
+
+</details>
+
+<details>
+  <summary>커스텀티켓 삭제 백엔드</summary>
+  ![테스트](./docs/gif/customticket/커스텀티켓 삭제테스트.gif)
+
+</details>
 
 ## 🍀9. CI/CD 테스트 결과
 
