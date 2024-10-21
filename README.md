@@ -290,6 +290,67 @@
 ### 8.3 가이드북
 <details>
   <summary>가이드북 메인(입문 작품 추천 / 뮤지컬 용어 안내 / 뮤지컬 관람 매너)</summary>
+   - <details>
+      <summary>입문 작품 추천 백엔드</summary>
+      <details>
+        <summary>입문 작품 추천 전체 조회</summary>
+        ![테스트](./docs/img/guidebook_img/작품추천 목록.png)
+      </details>
+      <details>
+        <summary>입문 작품 추천 상세 조회</summary>
+        ![테스트](./docs/img/guidebook_img/작품 추천 상세조회.png)
+      </details>
+      <details>
+        <summary>입문 작품 추천 작성</summary>
+        ![테스트](./docs/img/guidebook_img/작품추천 작성.png)
+      </details>
+      <details>
+        <summary>입문 작품 추천 수정</summary>
+        ![테스트](./docs/img/guidebook_img/작품 추천 수정.png)
+      </details>
+    </details>
+      - <details>
+      <summary>뮤지컬 용어 안내 백엔드</summary>
+      <details>
+        <summary>뮤지컬 용어 안내 전체 조회</summary>
+        ![테스트](./docs/img/guidebook_img/용어 목록.png)
+      </details>
+      <details>
+        <summary>뮤지컬 용어 안내 상세 조회</summary>
+        ![테스트](./docs/img/guidebook_img/용어 상세.png)
+      </details>
+      <details>
+        <summary>뮤지컬 용어 안내 작성</summary>
+        ![테스트](./docs/img/guidebook_img/용어 작성.png)
+      </details>
+      <details>
+        <summary>뮤지컬 용어 안내 수정</summary>
+        ![테스트](./docs/img/guidebook_img/용어 수정.png)
+      </details>
+    </details>
+         - <details>
+      <summary>관람 매너 안내 백엔드</summary>
+      <details>
+        <summary>관람 매너 안내 전체 조회</summary>
+        ![테스트](./docs/img/guidebook_img/매너 목록.png)
+      </details>
+      <details>
+        <summary>관람 매너 안내 상세 조회</summary>
+        ![테스트](./docs/img/guidebook_img/매너 상세 조회.png)
+      </details>
+      <details>
+        <summary>관람 매너 안내 작성</summary>
+        ![테스트](./docs/img/guidebook_img/매너 작성.png)
+      </details>
+      <details>
+        <summary>관람 매너 안내 수정</summary>
+        ![테스트](./docs/img/guidebook_img/매너 수정.png)
+      </details>
+    </details>
+        <details>
+        <summary>가이드북 프론트</summary>
+        ![테스트](./docs/gif/guidebook/가이드북.gif)
+      </details>
 </details>
 
 ---
