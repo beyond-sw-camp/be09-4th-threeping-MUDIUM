@@ -3,8 +3,8 @@
 
 
 ## 🤝TEAM
-| <img src="docs/img/profile/김시우." width="200" height = "160">|<img src="docs/img/profile/이효진." width="200" height = "160">|<img src="docs/img/profile/김서현." width="200" height = "160">|<img src="docs/img/profile/이우진.jpeg" width="200" height = "160">|<img src="docs/img/profile/김동혁.jpg" width="200" height = "160">|<img src="docs/img/profile/김정모.jpg" width="200" height = "160"> |
-| :------------------------------------: | :-------------------------------------: | :-----------------------------------: | :--------------------------------------: | :-----------------------------------: | :------------------------------------------: |
+| <img src="docs/img/profile/김시우." width="200" height = "160">|<img src="https://github.com/user-attachments/assets/91ad18ed-3c58-4626-8b4f-f4c2fe56da82">|<img src="docs/img/profile/김서현." width="200" height = "160">|<img src="docs/img/profile/이우진.jpeg" width="200" height = "160">|<img src="docs/img/profile/김동혁.jpg" width="200" height = "160">|<img src="docs/img/profile/김정모.jpg" width="200" height = "160"> |
+| :------------------------------------: | :-----------------------------------: | :-----------------------------------: | :--------------------------------------: | :-----------------------------------: | :------------------------------------------: |
 | [🦖김시우](https://github.com/siu98) | [🐰이효진](https://github.com/jinjin0528) | [😇김서현](https://github.com/1etterh) | [👀이우진](https://github.com/Vorschlag-bit) | [😺김동혁](https://github.com/dongkh9) | [🐶김정모](https://github.com/mojeeeeong) |
 
 ## 🛠️기술스택
@@ -76,8 +76,10 @@
 
 #### 1.3.1 플레이DB
 국내 대표적인 공연 정보 제공 서비스로, 뮤지컬 정보와 리뷰를 제공합니다. 하지만 UI가 사용자 친화적이지 않고, 커뮤니티 기능이 극히 제한적입니다. 뮤지컬에 대한 정보를 얻을 수는 있지만, 회원 간의 공유는 활발하지 않습니다.
+
 ![플레이디비_커뮤니티](./docs/img/플레이디비.png)
-   [플레이디비의 커뮤니티 - 회원 간 정보 공유를 위한 공간이 존재하지 않습니다.]
+
+[플레이디비의 커뮤니티 - 회원 간 정보 공유를 위한 공간이 존재하지 않습니다.]
 
 #### 1.3.2 뮤디엄 MUDIUM
 뮤디엄은 MUSICAL과 MEDIUM, MUSEUM을 합성한 단어입니다. 박물관(Museum)은 예술, 역사, 문화의 중요한 매개체로서 과거와 현재를 연결하며 사람들에게 지식을 전달하죠. 이와 유사하게 뮤디움은 뮤지컬을 매개하는 플랫폼으로서, 뮤지컬이라는 예술 형태를 대중에게 소개하고 경험을 공유하는 역할을 합니다.
@@ -151,8 +153,147 @@
 
 ## 🍀8. 프론트엔드 및 백엔드 테스트 결과
 
+---
+### 8.1 자유게시글
+
+<details>
+  <summary>자유게시글</summary>
+
+  - <details>
+     
+      <summary>자유게시글 목록 조회</summary>
+     
+    ![테스트](./docs/gif/board/자유게시글목록.gif)
+    
+    </details>
+
+  - <details>
+     
+      <summary>자유게시글 검색</summary>
+     
+      ![테스트](./docs/gif/board/자유게시글검색.gif)
+    
+    </details>
+
+  - <details>
+      <summary>자유게시글 상세 조회</summary>
+     ![테스트](./docs/gif/board/자유게시글상세조회.gif)
+    </details>
+
+  - <details>
+      <summary>자유게시글 작성</summary>
+     
+      ![테스트](./docs/gif/board/자유게시글작성.gif)
+    </details>
+
+   - <details>
+      <summary>자유게시글 수정</summary>
+     
+      ![테스트](./docs/gif/board/자유게시글수정.gif)
+    </details>
+
+   - <details>
+      <summary>자유게시글 삭제</summary>
+     
+      ![테스트](./docs/gif/board/자유게시글삭제.gif)
+    </details>
+
+   - <details>
+      <summary>자유게시글 댓글 작성</summary>
+     
+      ![테스트](./docs/gif/board/자유게시글댓글작성.gif)
+    </details>
+
+   - <details>
+      <summary>자유게시글 댓글 수정</summary>
+     
+      ![테스트](./docs/gif/board/자유게시글댓글수정.gif)
+    </details>
+
+   - <details>
+      <summary>자유게시글 댓글 삭제</summary>
+     
+      ![테스트](./docs/gif/board/자유게시글댓글삭제.gif)
+    </details>
+
+   - <details>
+      <summary>자유게시글 대댓글 작성</summary>
+     
+      ![테스트](./docs/gif/board/자유게시글대댓글작성.gif)
+    </details>
+
+   - <details>
+      <summary>자유게시글 대댓글 수정</summary>
+     
+      ![테스트](./docs/gif/board/자유게시글대댓글수정.gif)
+    </details>
+
+   - <details>
+      <summary>자유게시글 대댓글 삭제</summary>
+     
+      ![테스트](./docs/gif/board/자유게시글대댓글삭제.gif)
+    </details>
+
+   - <details>
+      <summary>자유게시글 백엔드 </summary>
+     
+      ![테스트](./docs/gif/board/자유백엔드.gif)
+    </details>
+
+   - <details>
+      <summary>자유게시글 댓글 백엔드</summary>
+     
+      ![테스트](./docs/gif/board/자유댓글백엔드.gif)
+    </details>
+
+   - <details>
+      <summary>자유게시글 대댓글 백엔드</summary>
+     
+      ![테스트](./docs/gif/board/자유대댓글백엔드.gif)
+    </details>
+
+   - <details>
+      <summary>자유게시글 좋아요 백엔드</summary>
+     
+      ![테스트](./docs/gif/board/자유좋아요백엔드.gif)
+    </details>
+
+</details>
 
 ---
+
+### 8.2 공지게시글
+
+<details>
+  <summary>공지게시글</summary>
+
+  - <details>
+     
+      <summary>공지게시글  조회</summary>
+     
+    ![테스트](./docs/gif/board/공지게시글조회.gif)
+    
+    </details>
+
+  - <details>
+     
+      <summary>공지게시글 백엔드</summary>
+     
+      ![테스트](./docs/gif/board/공지백엔드.gif)
+    
+    </details>
+
+</details>
+
+---
+
+### 8.3 가이드북
+<details>
+  <summary>가이드북 메인(입문 작품 추천 / 뮤지컬 용어 안내 / 뮤지컬 관람 매너)</summary>
+
+  
+
+</details>
 
 ## 🍀9. CI/CD 테스트 결과
 
