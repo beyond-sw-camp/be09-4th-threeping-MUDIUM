@@ -579,12 +579,11 @@
 
   - <details>
      
-      <summary>캘린더 테마</summary>
+      <summary>캘린더 테마 조회</summary>
      
-    ![테스트](.docs/gif/calendar/캘린더.gif)
+    ![테스트](./docs/gif/calendar/캘린더테마.gif)
     
     </details>
-
 </details>
 
 ---
