@@ -534,7 +534,7 @@
 
    <details>
      <summary>뮤지컬 검색</summary>
-      <img src="./docs/gif/musicalInfo/musical-search.gif" alt="테스트">
+     <img src="./docs/gif/musicalInfo/musical-search.gif" alt="테스트">
 
    </details>
 
