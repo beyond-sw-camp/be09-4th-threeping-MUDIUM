@@ -1,0 +1,24 @@
+services:
+  vue-app:
+    build:
+      context: ./Mudium_Frontend/Mudium_Frontend
+      dockerfile: Dockerfile
+    image: 1etterh/mudium_frontend:latest  # 원하는 이미지 이름 지정
+    ports:
+      - "8011:5173"
+    networks:
+      - camp-net
+  
+  springboot-app:
+    build:
+      context: ./Mudium_Backend/MUDIUM
+      dockerfile: Dockerfile
+    image: 1etterh/mudium_backend:latest
+    ports:
+      - "8055:7777"
+    networks:
+      - camp-net
+
+networks:
+  camp-net:
+    driver: bridge
