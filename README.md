@@ -146,7 +146,7 @@
 ---
 
 ## 🍀6. 시스템아키텍쳐 설계
-![시스템아키텍쳐](./docs/img/Mudium-architecture.png)
+![시스템아키텍쳐](./docs/img/mudium-architecture.png)
 
 ---
 
